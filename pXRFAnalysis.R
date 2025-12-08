@@ -1,6 +1,6 @@
 library(tidyverse)
 
-setwd("/Users/jesse/Desktop/Soils Manresa")
+setwd("")
 df <- read_csv("Manresa leaf group (soils class) pXRF.csv",
                show_col_types = FALSE)
 
